@@ -6,7 +6,7 @@ name: Build and deploy ASP.Net Core app to Azure Web App - AzureNetApp
 on:
   push:
     branches:
-      - main
+      - master  # Changed from 'main' to 'master'
   workflow_dispatch:
 
 jobs:
