@@ -1,0 +1,7 @@
+/home/azureuser/VinayWebApp/publish/VinayWebApp
+/home/azureuser/VinayWebApp/publish/appsettings.Development.json
+/home/azureuser/VinayWebApp/publish/appsettings.json
+/home/azureuser/VinayWebApp/publish/VinayWebApp.dll
+/home/azureuser/VinayWebApp/publish/VinayWebApp.deps.json
+/home/azureuser/VinayWebApp/publish/VinayWebApp.runtimeconfig.json
+/home/azureuser/VinayWebApp/publish/VinayWebApp.pdb
